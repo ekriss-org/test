@@ -5,4 +5,5 @@ void main()
 	// modification by a new user
 	// modification in a forked repo
 	// yet another modification
+	// try to commit with a non-collaborator user
 }
