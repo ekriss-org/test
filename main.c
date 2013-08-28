@@ -1,9 +1,4 @@
 void main()
 {
-	// modified in the branch
-	// new modification in branch2
-	// modification by a new user
-	// modification in a forked repo
-	// yet another modification
-	// try to commit with a non-collaborator user
+	// try to modifiy with push permission
 }
